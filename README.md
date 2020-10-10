@@ -4,10 +4,10 @@ PSD导出切图及界面布局文件生成
 命名方式
 ---------------
 
-1.用英文或者拼音命名，不要用中文
-2.功能模块下有子功能模块,psd文件命名带“_”，
+1. 用英文或者拼音命名，不要用中文
+2. 功能模块下有子功能模块,psd文件命名带“_”，
 	如公会里的商店  Guild_Mall.psd
-3.规范
+3. 规范
 ```go
     格式	                说明
     name=PNG	         导出PNG图片
@@ -28,17 +28,17 @@ PSD导出切图及界面布局文件生成
 导出路径
 ---------------
 
-1.切图导出都在Art/Atlas目录下
+1. 切图导出都在Art/Atlas目录下
 	如 Guild_Mall.psd， 切图在Art/Atlas/Guild/Mall下Guild.psd 切图在Art/UI/Guild下
-2.布局文件目录Layout
+2. 布局文件目录Layout
 	如Guild.psd 导出文件为 Layout/Guild.json
 	
 资源管理
 ---------------
 
-*psd 源文件提交美术仓库
-*Art和Layout导出后直接拷贝到指定仓库提交给程序
+* psd 源文件提交美术仓库
+* Art和Layout导出后直接拷贝到指定仓库提交给程序
 
 ## 打赏作者
 
-![](https://inews.gtimg.com/newsapp_bt/0/12589853810/641)
+![](https://inews.gtimg.com/newsapp_bt/0/12589884703/641)
