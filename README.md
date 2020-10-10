@@ -28,10 +28,8 @@ PSD导出切图及界面布局文件生成
 导出路径
 ---------------
 
-1. 切图导出都在Art/Atlas目录下
-	如 Guild_Mall.psd， 切图在Art/Atlas/Guild/Mall下Guild.psd 切图在Art/UI/Guild下
-2. 布局文件目录Layout
-	如Guild.psd 导出文件为 Layout/Guild.json
+1. 切图导出都在Art/Atlas目录下如 Guild_Mall.psd， 切图在Art/Atlas/Guild/Mall下Guild.psd 切图在Art/UI/Guild下
+2. 布局文件目录Layout,如Guild.psd 导出文件为 Layout/Guild.json
 	
 资源管理
 ---------------
